@@ -1,4 +1,4 @@
-## Oiii sou o Vitor Gonzaga, apaixonado em Front-end!
+## Oiii sou o Vitor Gonzaga,aprendendo Python e apaixonado em Front-end!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torress01&layout=compact&theme=dracula"/>
 
