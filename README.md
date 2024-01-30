@@ -1,7 +1,6 @@
-## Oiii sou p Vitor Gonzaga, apaixonado em Front-end e Programação Mobile!
+## Oiii sou o Vitor Gonzaga, apaixonado em Front-end e Programação Mobile!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torress01&layout=compact&theme=dracula"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
