@@ -1,6 +1,8 @@
 Sou estudante de Engenharia de Software no INATEL, com experiência em pesquisa acadêmica e participação em projetos de Iniciação Científica. 
 Busco um estágio para aplicar meus conhecimentos e continuar aprendendo enquanto contribuo para soluções tecnológicas.
 
+
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,dart,java,mysql,mongodb,html,typescript,nextjs,react,vscode)](https://skillicons.dev)
  
 <div> 
