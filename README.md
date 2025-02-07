@@ -1,5 +1,5 @@
 
-<img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torress01&layout=compact&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torress01&layout=compact&theme=dracula"/>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,dart,java,mysql,mongodb,html,typescript,nextjs,react,vscode)](https://skillicons.dev)
  
