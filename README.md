@@ -115,8 +115,7 @@ Me chamo Vitor Torres Gonzaga, tenho 21 anos e sou natural de Guaratinguetá. Co
 
 ### 📊 Estatísticas
 
-<p>
-
-<img style="text-align: center; margin: 20px 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torress01&layout=compact&theme=onedark"/>
-
-</p>
+<div style="text-align: center; margin: 20px 0;">
+  <span style="font-size: 1.2em;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torress01&layout=compact&theme=onedark&langs_count=8"/>
+  </span>
+</div>
