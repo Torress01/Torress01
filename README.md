@@ -4,8 +4,9 @@
 
 Me chamo Vitor Torres Gonzaga, tenho 21 anos e sou natural de Guaratinguetá. Concluí o ensino médio no CTIG, com o curso técnico em Eletroeletônica. Atualmente, estou cursando Engenharia de software na Inatel. Interessado em desenvolvimento de software e tecnologia, busco oportunidades para crescer como desenvolvedor e contribuir com projetos inovadores.
 
-<div>
-  <a href="https://www.linkedin.com/in/vitorgonzaga10" target="_blank"><img style="width: 15%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<div style="text-align: left;">  <a href="https://www.linkedin.com/in/vitorgonzaga10" target="_blank">
+    <img style="width: 15%; margin-left: 0; padding-left: 0;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ---
