@@ -1,16 +1,20 @@
-# 👨‍💻 Vitor Gonzaga
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=7000&pause=&color=F7F7F7&center=true&vCenter=true&repeat=false&width=440&height=60&lines=Vitor+Gonzaga!">
+  </a>
+</div>
 
-**`Estudante de Engenharia de Software`**
+<p align="center"><strong>Estudante de Engenharia de Software</strong></p>
 
-Me chamo Vitor Torres Gonzaga, tenho 21 anos e sou natural de Guaratinguetá. Concluí o ensino médio no CTIG, com o curso técnico em Eletroeletônica. Atualmente, estou cursando Engenharia de software na Inatel. Interessado em desenvolvimento de software e tecnologia, busco oportunidades para crescer como desenvolvedor e contribuir com projetos inovadores.
+<p align="center">Me chamo Vitor Torres Gonzaga, tenho 21 anos e sou natural de Guaratinguetá. Concluí o ensino médio no CTIG, com o curso técnico em Eletroeletônica. Atualmente, estou cursando Engenharia de software na Inatel na cidade de Santa Rita do Sapucaí. Interessado em desenvolvimento de software e tecnologia, busco oportunidades para crescer como desenvolvedor e contribuir com projetos inovadores.
+
+#
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#0000FF&color:FFF)](mailto:vitor.t@ges.inatel.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#0000FF&color:FFF)](https://www.linkedin.com/in/vitorgonzaga10/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=#0000FF&color:FFF)](https://www.instagram.com/vitor.gonzagaa/)
-
-#
 
 ### 🤖 My stack 
 
