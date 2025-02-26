@@ -22,7 +22,7 @@
     align="left"
     alt="HTML"
     title="HTML"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
@@ -30,7 +30,7 @@
     align="left"
     alt="CSS"
     title="CSS"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
@@ -38,7 +38,7 @@
     align="left"
     alt="JavaScript"
     title="JavaScript"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
@@ -46,7 +46,7 @@
     align="left"
     alt="React"
     title="React"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
@@ -54,7 +54,7 @@
     align="left"
     alt="Next.js"
     title="Next.js"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 />
@@ -62,7 +62,7 @@
     align="left"
     alt="Tailwind"
     title="Tailwind"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />
@@ -70,7 +70,7 @@
     align="left"
     alt="mysql"
     title="mysql"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
@@ -78,7 +78,7 @@
     align="left"
     alt="Git"
     title="Git"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
@@ -86,7 +86,7 @@
     align="left"
     alt="Java"
     title="Java"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
 />
@@ -94,7 +94,7 @@
     align="left"
     alt="c++"
     title="c++"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
@@ -102,7 +102,7 @@
     align="left"
     alt="vscode"
     title="vscode"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -110,18 +110,10 @@
     align="left"
     alt="mysql"
     title="mysql"
-    width="25px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 
 <br/>
 
-#
-
-### 📊 Stats
-
-<div style="text-align: center; margin: 20px 0;">
-  <span style="font-size: 1.2em;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torress01&layout=compact&theme=dark&langs_count=8"/>
-  </span>
-</div>
