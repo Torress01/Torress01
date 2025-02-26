@@ -122,6 +122,6 @@
 ### 📊 Stats
 
 <div style="text-align: center; margin: 20px 0;">
-  <span style="font-size: 1.2em;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torress01&layout=compact&theme=dark&langs_count=8"/>
+  <span style="font-size: 1.2em;"> <img src=""/>
   </span>
 </div>
