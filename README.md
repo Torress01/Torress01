@@ -6,41 +6,26 @@
 
 <p align="center"><strong>Estudante de Engenharia de Software</strong></p>
 
-<p align="center">Me chamo Vitor Torres Gonzaga, tenho 21 anos e sou natural de Guaratinguetá. Concluí o ensino médio no CTIG, com o curso técnico em Eletroeletônica. Atualmente, estou cursando Engenharia de software na Inatel na cidade de Santa Rita do Sapucaí. Interessado em desenvolvimento de software e tecnologia, busco oportunidades para crescer como desenvolvedor e contribuir com projetos inovadores.
+<p align="center">Me chamo Vitor Torres Gonzaga, tenho 22 anos e atualmente, estou cursando Engenharia de software no Inatel e trabalhando como estagiário na empresa Multittech. Apaixonado em desenvolvimento de software e tecnologia, busco tranformar sonhos em realidade através da programação.
+
+---
+
+### 🌐 Contato
+
+[![E-mail](https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitor.t@ges.inatel.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgonzaga10/)
 
 #
 
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#0000FF&color:FFF)](mailto:vitor.t@ges.inatel.br)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#0000FF&color:FFF)](https://www.linkedin.com/in/vitorgonzaga10/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=#0000FF&color:FFF)](https://www.instagram.com/vitor.gonzagaa/)
-
-### 🤖 My stack 
+### ⚒️ Tecnologias que trabalho: 
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="React"
+    title="React"
     width="50px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 <img
     align="left"
@@ -76,28 +61,21 @@
 />
 <img
     align="left"
-    alt="c++"
-    title="c++"
+    alt="Cypress"
+    title="Cypress"
     width="50px"
     style="padding-right: 10px;"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
 />
 <img
     align="left"
-    alt="vscode"
-    title="vscode"
+    alt="Postman"
+    title="Postman"
     width="50px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
-<img
-    align="left"
-    alt="mysql"
-    title="mysql"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
+
 
 <br/>
 
