@@ -10,72 +10,19 @@
 
 ---
 
-### 🌐 Contato
+🌐 Contato
 
 [![E-mail](https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitor.t@ges.inatel.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgonzaga10/)
 
+
 #
 
-### ⚒️ Tecnologias que trabalho: 
+## ⚒️ Tecnologias que trabalho
 
-<img
-    align="left"
-    alt="React"
-    title="React"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left"
-    alt="mongoDB"
-    title="mongoDB"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-/>
-<img
-    align="left"
-    alt="mysql"
-    title="mysql"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
-/>
-<img
-    align="left"
-    alt="Cypress"
-    title="Cypress"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
-/>
-<img
-    align="left"
-    alt="Postman"
-    title="Postman"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/>
-
+| Front-end | Back-end | Databases | Tools |
+|-----------|----------|-----------|-------|
+| <img alt="Nextjs" title="Nextjs" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <img alt="React" title="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img alt="Html" title="Html" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img alt="CSS" title="CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> | <img alt="Java" title="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /> <img alt="Python" title="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img alt="JavaScript" title="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img alt="Typescript" title="Typescript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> | <img alt="MongoDB" title="MongoDB" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> <img alt="MySQL" title="MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img alt="Redis" title="Redis" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" /> <img alt="Postgresql" title="Postgresql" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">| <img alt="Git" title="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img alt="Git" title="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> <img alt="Postman" title="Postman" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /> <img alt="Docker" title="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> |
 
 <br/>
 
