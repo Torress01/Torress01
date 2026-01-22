@@ -9,8 +9,6 @@
 
 <samp>I'm Graduating in Software Engineer at __Inatel__.</samp>
 
-<hr>
-
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgresql,git)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,next,tailwind,docker)](https://skillicons.dev)
