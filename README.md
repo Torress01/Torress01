@@ -1,23 +1,19 @@
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1000&pause=&color=F7F7F7&center=true&vCenter=true&repeat=false&width=440&height=60&lines=Vitor+Gonzaga!">
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1000&pause=&color=F7F7F7&center=true&vCenter=true&repeat=false&width=440&height=60&lines=Software+Engineer">
-  </a>
-</div>
+# <samp>Vitor Gonzaga</samp><img src="https://github.com/vitortgonzaga/vitortgonzaga/blob/main/assets/developer.gif" width="30px" height="30px">
 
-<p>👨‍💻 Backend developer Intern at <strong>Multittech Engenharia</strong>.</p>
-<p>🎓 Graduating in Software Engineer at <a href="https://inatel.br/vestibular/engenharia-de-software" target="blank_">Inatel</a></p>
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/vitorgonzagaa)](https://www.instagram.com/vitorgonzagaa)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/vitorgonzaga10/)](https://www.linkedin.com/in/vitorgonzaga10/)
+
+## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
+<samp>I'm a __Software Engineer__, passionate about solving problems with technology and creating different solutions.</samp>
+
+<samp>I'm Graduating in Software Engineer at __Inatel__.</samp>
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,aws,postgresql,mongodb,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgresql,git)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,next,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,next,tailwind,docker)](https://skillicons.dev)
 
 
 
